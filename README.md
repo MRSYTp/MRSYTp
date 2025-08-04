@@ -68,10 +68,4 @@ I love working in dynamic, fast-paced environments like **startups**, where ever
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRSYTp&show_icons=true&theme=radical)
-
----
-
 > ⚡ *Thanks for stopping by! I'm always open to new challenges, collaboration, and growth opportunities.*
